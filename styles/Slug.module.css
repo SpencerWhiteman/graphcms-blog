@@ -3,9 +3,12 @@
   }
   
   .title h2 {
+    color: #FFF;
     padding-top: 1rem;
     padding-bottom: 2rem;
   }
+
+  
   
   .authdetails {
     display: flex;
@@ -22,6 +25,7 @@
   }
   
   .authdetails h6 {
+    color: #95A3B9;
     font-weight: 500;
   }
   

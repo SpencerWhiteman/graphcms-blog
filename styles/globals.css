@@ -11,6 +11,7 @@
 body {
   margin: 0% 25%;
   font-family: "Poppins", sans-serif;
+  background: linear-gradient(90deg, #13253B, #0F172A);
 }
 
 nav {
@@ -33,14 +34,18 @@ h1 {
 }
 
 h2 {
+  color: #FFF;
   font-size: 1.2rem;
+  
 }
 
 h3 {
+  color: #0BA4E8;
   font-size: 1.2rem;
   font-weight: 500;
   padding: 1rem 0rem;
   font-weight: bold;
+  
 }
 
 h6 {
@@ -49,8 +54,9 @@ h6 {
 
 p,
 li {
+  color: #95A3B9;
   line-height: 1.5rem;
-  font-family: "Lora", serif;
+  font-family: "Poppins", serif;
   padding: 1rem 0rem;
   font-size: 1.0rem;
 }
@@ -60,9 +66,19 @@ ul {
   padding-left: 1.5rem;
 }
 a {
+  color: #FFF;
   font-size: 1.5rem;
   text-decoration: none;
   font-weight: bold;
+}
+
+
+strong {
+  color: #95A3B9;
+}
+
+blockquote {
+  color: #F571B7;
 }
 
 @media screen and (max-width: 768px) {
