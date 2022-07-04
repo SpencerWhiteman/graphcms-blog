@@ -1,3 +1,4 @@
+/* eslint-disable @next/next/no-img-element */
 import styles from "../styles/BlogCard.module.css";
 import moment from "moment";
 import Link from "next/link";
@@ -21,7 +22,7 @@ function BlogPost({ title, author, coverPhoto, datePublished, slug }) {
             
           </div>
           <div className={styles.date}>
-            <h3>{moment(datePublished).format("MMMM d, YYYY")}</h3>
+            <p>{moment(datePublished).format("MMMM d, YYYY")}</p>
           </div>
         </div>
       </div>
