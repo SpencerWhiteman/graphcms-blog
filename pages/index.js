@@ -48,8 +48,8 @@ export default function Home({ posts }) {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Spencers Dev Journal</title>
-        <meta name="description" content="A blog for my experiences" />
+        <title>Spencer's Dev Journal</title>
+        <meta name="description" content="A blog for all things tech & development" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
