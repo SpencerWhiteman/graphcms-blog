@@ -1,1 +1,1 @@
-Welcome to by dev blog.
+Welcome to by dev blog 🎉
