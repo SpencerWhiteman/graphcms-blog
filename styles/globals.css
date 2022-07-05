@@ -81,6 +81,27 @@ blockquote {
   color: #F571B7;
 }
 
+
+
+
+/* Dev Documentation mdBook Blog */
+
+.mdbooklink {
+  color: #F9DC5C;
+  font-size: 1.2rem;
+}
+
+
+/* Dev Documentation mdBook Blog End */
+
+
+
+
+
+
+
+
+
 @media screen and (max-width: 768px) {
   body {
     margin: 0% 0%;

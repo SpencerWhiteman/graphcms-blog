@@ -1,3 +1,4 @@
+/* eslint-disable @next/next/no-img-element */
 import { GraphQLClient, gql } from "graphql-request";
 import styles from "../../styles/Slug.module.css";
 import moment from "moment";
