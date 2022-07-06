@@ -91,6 +91,10 @@ blockquote {
   font-size: 1.2rem;
 }
 
+.mdbook-documentation-link {
+  color: #F9DC5C;
+  font-size: 1.2rem;
+}
 
 /* Dev Documentation mdBook Blog End */
 
