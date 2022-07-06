@@ -98,6 +98,20 @@ blockquote {
 
 /* Dev Documentation mdBook Blog End */
 
+/* Jamstack Blog */
+
+.jamstack-link strong {
+  color: #F9DC5C;
+  font-size: 1.2rem;
+}
+
+.jamstack-link-bottom {
+  color: #F9DC5C;
+  font-size: 1.2rem;
+}
+
+/* Jamstack Blog End */
+
 
 
 
