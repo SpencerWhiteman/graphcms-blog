@@ -113,7 +113,7 @@ blockquote {
 
 /* Jamstack Blog End */
 
-
+/* Styled Components Blog */
 
 .Slug_content__EoSjt img {
   
@@ -127,6 +127,13 @@ blockquote {
    
   }
 }
+
+.styledcomponents-link {
+  color: #F9DC5C;
+  font-size: 1.2rem;
+}
+
+/* Styled Components Blog End */
 
 
 
