@@ -110,10 +110,23 @@ blockquote {
   font-size: 1.2rem;
 }
 
+
 /* Jamstack Blog End */
 
 
 
+.Slug_content__EoSjt img {
+  
+  height: 300px;
+  width: 550px;
+}
+
+@media screen and (max-width: 768px) {
+  .Slug_content__EoSjt img {
+    width: auto;
+   
+  }
+}
 
 
 
