@@ -123,8 +123,8 @@ blockquote {
 
 @media screen and (max-width: 768px) {
   .Slug_content__EoSjt img {
-    width: auto;
-   
+    height: 200px;
+    width: 550px;
   }
 }
 

@@ -43,13 +43,13 @@
   }
   
   .blog code {
-    font-size: 1.2rem;
+    font-size: 1rem;
     background: rgb(55, 55, 55);
     color: rgb(246, 246, 246);
     display: block;
     padding: 1rem;
     margin: 2rem 0rem;
-    border-radius: 2rem;
+    border-radius: 0.5rem;
   }
 
   
