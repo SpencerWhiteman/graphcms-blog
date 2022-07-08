@@ -46,6 +46,7 @@ export async function getStaticProps() {
 
 export default function Home({ posts }) {
   return (
+    
     <div className={styles.container}>
       <Head>
         <title>Spencer's Dev Journal</title>
